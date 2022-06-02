@@ -1,4 +1,4 @@
-### Hello there, My name is Ricky <img src="https://media.giphy.com/media/ekeXXN8CG7xEavr6rP/giphy.gif" width="20px">  <img src="https://media.giphy.com/media/VCst7uRnCOx6asgvqj/giphy.gif" width="20px">
+### Hello there, My name is Ricky 
 
 I am an **Informatics** Engineering Student at Sepuluh Nopember Institute of Technology <img src="https://media.giphy.com/media/cAcofT0wwuRnwZ8PGE/giphy.gif" width="20px">
 
