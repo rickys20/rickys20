@@ -19,7 +19,7 @@ Enjoy your visit folks!!
      
 ## GITHUB STATS 📈
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=rickys20&line_height=27&count_private=true&show_icons=true&theme=vision-friendly-dark&hide_border=true" />
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rickys20&langs_count=8&theme=highcontrast&hide_border=true&layout=compact" />
 </p>
 
